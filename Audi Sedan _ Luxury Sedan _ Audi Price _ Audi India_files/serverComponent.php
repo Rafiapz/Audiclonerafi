@@ -1,0 +1,2 @@
+
+Bootstrapper._serverTime = '2023-06-23 15:58:38'; Bootstrapper._clientIP = '23.67.40.8'; Bootstrapper.insertPageFiles(['https://tms.audi.com/audi/nemo/code/e3dd72484b1f217e68e4ae2a2468ea24.js?conditionId0=4880842','https://tms.audi.com/audi/nemo/code/80c46a63776602c94430667a21ebcb70.js?conditionId0=639050','https://tms.audi.com/audi/nemo/code/03f739bd687174968a48ee96c6fe5767.js','https://tms.audi.com/audi/nemo/code/7c588fc7b6cf4b2a9782904f7aa1d926.js?conditionId0=639050']);Bootstrapper.setPageSpecificDataDefinitionIds([63745,53736,59992,53738,58316]);

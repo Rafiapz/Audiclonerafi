@@ -1,0 +1,703 @@
+.container{
+
+    width: 100%;
+    height: 6616px;
+
+}
+body{
+
+    margin: 0;
+    overflow-x: hidden;
+    font-family: rafi;
+    
+}
+@font-face {
+    font-family: rafi;
+    src: url(New\ Order\ Regular.otf);
+    
+}
+@font-face {
+    font-family: audif;
+    src: url(newfont/AudiType-ExtendedBold_03.ttf);
+}
+
+.firstline{
+
+    width: 100%;
+    height: 83px;
+    background-color: white;
+    display: flex;
+    
+
+}
+.logdiv{
+
+    width: 106px;
+    height: 80px;
+    background-color: white;
+    padding-left: 85px;
+}
+.logone{
+
+    width: 87px;
+    height: 83px;
+}
+.model{
+
+    width: 110px;
+    height: 52px;
+    padding-top: 28px;
+}
+.firstmenu{
+
+    color: var(--colors-base-grey-60-08830f5);
+    cursor: pointer;
+    
+
+}
+.firstmenu:hover{
+
+    
+}
+#innov{
+
+    margin-left: 20px;
+    color: var(--colors-base-grey-60-08830f5);
+    cursor: pointer;
+}
+.lensdiv{
+
+    width: 774px;
+    height: 80px;
+    background-color: white;
+    
+    
+
+}
+.lenicon{
+    margin-left: 650px;
+    margin-top: 30px;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50%;
+    border: none;
+}
+.lenbutton{
+
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: none;
+}
+.lenpic{
+
+    margin-left: -3px;
+    width: 25px;
+    height: 25px; 
+    border-radius: 50%;
+    border: none;
+
+}.second{
+
+    width: 100%;
+    height: 750px;
+    background: url(firstcar.jpg);
+    background-size: cover;
+    background-position: 50% 80%;
+
+}
+.some{
+
+    width: 100%;
+    height: 185px;
+   
+    padding-left: 60px;
+    padding-top: 5px;
+
+}
+.fstwrt{
+
+    font-size: 40px;
+    color: white;
+    font-family: rafi;
+    height: 30px;
+    letter-spacing: 0.110em;
+
+  
+}
+.fstwo{
+
+    letter-spacing: 0.110em;
+    color: white;
+    font-family: rafi;
+
+}
+.clqthree{
+
+    width: 430px;
+    height: 100px;
+    display: flex;
+    gap: 5px;
+
+    
+    
+}
+.audiq{
+
+    width: 145px;
+    height: 68px;
+    background-color: white;
+    margin-left: 60px;
+   display: flex;
+   align-items: center;
+}
+.audiq:hover{
+
+    
+
+}
+.sportback{
+
+    width: 220px;
+    height: 68px;
+   
+   display: flex;
+   align-items: center;
+   border: solid white 1px;
+    
+
+}
+.adrt{
+
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: rafi;
+    color: black;
+   
+}
+.sportart{
+
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: rafi;
+    color: white;
+
+
+}
+.third{
+
+    width: 100%;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    padding-top: 20px;
+    padding-left: 53px;
+
+}
+.mod{
+
+    font-size: 100%;
+
+}
+.fourth{
+  
+    width: 100%;
+    height: 170px;
+    background-color: white;
+    display: flex;
+}
+.carmod{
+
+
+    width: 245px;
+    height: 170px;
+    background-color: white;
+   
+   
+
+}
+.carmodpic{
+
+    width: 250px;
+    height: 112px;
+}
+.carname{
+
+    margin-left: 95px;
+    
+}
+.fifth{
+
+    width: 100%;
+    height: 750px;
+    background-color: aquamarine;
+    display: flex;
+  
+}
+.fone{
+
+    width: 55%;
+    height: 750px;
+    background-color: white;
+   
+ 
+}
+.ftwo{
+
+    width: 45%;
+    height: 510px;
+    background-color: white;
+    padding-top: 240px;
+    padding-left: 30px;
+}
+.imgmncr{
+
+    width: 570px;
+    height: 610px;
+    margin-left: 180px;
+    margin-top: 50px;
+
+}
+.virtu{
+
+    font-size: 2.1rem;
+    line-height: 3rem;
+    font-family: audif;  
+}
+.explore{
+
+    width: 166px;
+    height: 65px;
+    background-color: white ;
+    display: flex;
+    align-items: center;
+    padding-left: 70px;
+    border: solid black 1px;
+}
+.exm{
+
+
+}
+.sixth{
+
+    width: 100%;
+    height: 1100px;
+    background: url(models/ingt.jpg);    
+    background-size: cover;
+    background-position: 100% 65%;
+}
+.home{
+
+    width: 580px;
+    height: 332px;
+    background-color: white;
+    position: absolute;
+    backface-visibility: hidden;
+    z-index: 1;
+    margin-left: 73px;
+    margin-top: 215px;
+    padding-left: 40px;
+    display: table-column;
+    padding-top: 20px;
+
+}
+.thhm{
+
+    color: rgb(51, 51, 51);
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: -0.015em;
+    text-decoration: none;
+    font-size: 40px;
+    line-height: 13px;
+    
+    gap: 12px;
+}
+.sent{
+
+    margin-top: 10px;
+    line-height: 23px;
+
+}
+.blwhm{
+
+    width: 376px;
+    height: 62px;
+    background-color: white;
+    display: flex;
+    gap: 4px;
+  
+
+}
+.hub{
+
+width: 155px;
+height: 62px;
+background-color: rgb(15, 14, 14);
+border: solid black 1px;
+padding-left: 35px;
+
+
+}
+.future{
+
+width: 235px;
+height: 62px;
+background-color: white;
+border: solid black 1px;
+padding-left: 35px;
+
+
+}
+.hub{
+    color: white;
+    font-style: normal;
+}
+.future{
+
+    color: black;
+    font-style: normal;
+
+}
+.dealermain{
+
+    width: 100%;
+    height: 569px;
+    background-color: blue;
+    display: flex;
+}
+.dealer{
+
+    width: 497px;
+    height: 569px;
+    background-color: black;
+
+}
+.map{
+
+    width: 968px;
+    height: 569px;
+    background-color: aqua;
+}
+.dlc{
+
+    color: white;
+    margin-left: 65px;
+    margin-top: 30px;
+    font-size: 2.5rem;
+    font-weight: 40px;
+    line-height: 3rem;
+    letter-spacing: .1em;
+
+}
+.explo{
+
+    width: 240px;
+    height: 55px;
+    background-color: black;
+    position: absolute;
+    left: 70px;
+    top: 3382px;
+    border: solid white 1px;
+
+
+}
+.clex{
+
+    margin-left: 70px;
+    color: white;
+}
+.mp{
+
+    width: 1030px;
+    height: 569px;
+    
+}
+.seventh{
+
+    width: 100%;
+    height: 83px;
+    background-color: white ;
+    
+
+}
+.eigth{
+
+    width: 100%;
+    height: 928px;
+    display: flex;
+
+}
+.bcus{
+
+    width: 1000px;
+    height: 928px;
+    background-color: black;
+    display: table-column;
+
+}
+.myod{
+
+    width: 614px;
+    height: 928px;
+    background-color: brown;
+    
+
+
+}
+.mob{
+
+    width: 614px;
+    height: 928px;
+}
+.bctxt{
+    font-weight: 400;
+    color: white;
+    letter-spacing: -0.015em;
+    font-size: 40px;
+    margin-top: 510px;
+    margin-left: 40px;
+}
+
+.mncon{
+
+    width: 348px;
+    height: 65px;
+    background-color:black;
+    margin-left: 40px;
+    display: flex;
+    gap: 3px;
+}
+.cnnt{
+
+    width: 200px;
+    height: 65px;
+    background-color: black;
+    border: solid white 1px;
+}
+.shop{
+
+    width: 148px;
+    height: 65px;
+    background-color: black;
+    border: solid white 1px;
+}
+.innercon{
+
+    color: white;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.nineth{
+
+    width: 100%;
+    height: 220px;
+    background-color: white;
+}
+.wait{
+
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    padding-top: 120px;
+    padding-left: 40px;
+
+}
+.sen{
+
+    color: black;
+    font-size: 30px;
+    letter-spacing: 1xpx;  
+    font-family: audif;  
+    
+}
+.tenth{
+
+    width: 100%;
+    height: 350px;
+    background-color: white;
+    display: flex;
+    padding-left: 50px;
+    padding-top: 10px;    
+}
+.tenthree{
+
+    width: 460px;
+    height: 270px;
+    background-color: aqua;
+    border: solid white 4px;
+}
+.greenth{
+
+    width: 460px;
+    height: 270px;
+}
+.eleventh{
+
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    padding-top: 20px;
+    padding-left: 50px;
+    font-size: 2.1rem;
+    line-height: 3rem;
+    font-family: audif;  
+
+}
+.twelth{
+
+    width: 100%;
+    height: 310px;
+    background-color: white;
+    display: flex;
+    padding-left: 50px;
+    padding-top: 10px;  
+}
+.tlwthree{
+
+    width: 460px;
+    height: 301px;
+    background-color: white;
+    border: solid white 4px;
+
+}
+.twlimgfs{
+
+    width: 460px;
+    height: 300px;
+
+}
+.twlimgtwo{
+
+    width: 460px;
+    height: 150px;
+
+}
+.thirteenth{
+
+    width: 100%;
+    height: 200px;
+    background-color: white;
+    display: flex;
+}
+.divinthirt{
+   
+    width: 100%;
+    height: 200px;
+    background-color:white ;
+    padding-left: 50px;
+    padding-top: 1px;
+}
+.prg{
+
+    font-style: normal;
+}
+.fourteenth{
+
+    width: 100%;
+    height: 903px;
+    background-color: black;
+}
+.oneft{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    padding-top: 7px;
+   
+}
+.back{
+
+    margin-left: 1300px;
+    font-size: 15px;
+    color: white;
+    
+    
+}
+.twoft{
+
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    display: flex;
+}
+.fiventwo{
+
+    width: 292px;
+    height: 400px;
+    background-color: black;
+    padding-left: 20px;
+    display: table-column;
+
+}
+
+.lshd{
+
+    color: white;
+    font-weight: 900px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    margin-left: 40px;
+    
+}
+.ulst{
+
+    list-style: none;
+    color: white;
+    line-height: 30px;
+}
+.threeft{
+
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+.scl{
+
+    width: 212px;
+    height: 50px;
+    margin-left: 1190px;
+}
+.legal{
+
+    width: 1310px;
+    height: 325px;
+    background-color: black;
+    margin-left: 90px;
+    border-top: solid white 1px;
+}
+.legallist{
+
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    
+}
+.contslist{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.fpar{
+
+    width: 100%;
+    height: 214px;
+    background-color: black);
+    
+}
+.thesp{
+
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+
+
+  
+
+
+
